@@ -270,9 +270,3 @@ Possible extensions include:
 - Larger evaluation datasets
 - LLM-based query expansion
 - Multi-hop retrieval experiments
-
----
-
-# Acknowledgements
-
-This project was developed for the **GCPL AI Intern Hackathon** and demonstrates the design and evaluation of a modular RAG benchmarking pipeline.
