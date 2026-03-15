@@ -1,0 +1,80 @@
+[
+{
+"query": "How can artificial intelligence improve demand forecasting in supply chains?",
+"relevant_docs": [
+"ai_demand_forecasting.pdf",
+"ai_supply_chain_operations.pdf",
+"mckinsey_ai_supply_chain.pdf"
+]
+},
+{
+"query": "What are the main benefits of AI adoption in supply chain operations?",
+"relevant_docs": [
+"ai_supply_chain_operations.pdf",
+"c3_ai_supply_chain.pdf",
+"mckinsey_ai_supply_chain.pdf"
+]
+},
+{
+"query": "How does AI help optimize logistics and transportation planning?",
+"relevant_docs": [
+"ai_logistics_supply_chain.pdf",
+"ai_supply_chain_operations.pdf",
+"c3_ai_supply_chain.pdf"
+]
+},
+{
+"query": "What role do large language models play in supply chain decision making?",
+"relevant_docs": [
+"llm_supply_chain_decisions.pdf",
+"llm_supply_chain_management.pdf",
+"llm_supply_chain_optimization.pdf"
+]
+},
+{
+"query": "How can LLMs be used for supply chain management and analytics?",
+"relevant_docs": [
+"llm_supply_chain_management.pdf",
+"llm_supply_chain_decisions.pdf",
+"llm_supply_chain_optimization.pdf"
+]
+},
+{
+"query": "How can AI help optimize supply chain processes and operational efficiency?",
+"relevant_docs": [
+"ai_supply_chain_operations.pdf",
+"c3_ai_supply_chain.pdf",
+"mckinsey_ai_supply_chain.pdf"
+]
+},
+{
+"query": "How does AI increase resilience and risk management in supply chains?",
+"relevant_docs": [
+"c3_ai_supply_chain.pdf",
+"state_of_ai_mckinsey.pdf",
+"supply_chain_visibility_llm.pdf"
+]
+},
+{
+"query": "What are the emerging AI use cases in supply chain management according to McKinsey?",
+"relevant_docs": [
+"mckinsey_ai_supply_chain.pdf",
+"state_of_ai_mckinsey.pdf"
+]
+},
+{
+"query": "How are organizations adopting AI technologies across business operations including supply chains?",
+"relevant_docs": [
+"state_of_ai_mckinsey.pdf",
+"mckinsey_ai_supply_chain.pdf"
+]
+},
+{
+"query": "How can AI and large language models improve supply chain visibility and disruption detection?",
+"relevant_docs": [
+"supply_chain_visibility_llm.pdf",
+"llm_supply_chain_decisions.pdf",
+"llm_supply_chain_management.pdf"
+]
+}
+]
